@@ -225,7 +225,6 @@ export default defineComponent({
           title: 'relays status',
           icon: 'search',
           to: '/relays/',
-          match: 'follow',
         },
       ],
     }
