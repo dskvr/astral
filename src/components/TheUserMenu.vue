@@ -221,6 +221,12 @@ export default defineComponent({
           match: 'follow',
           compactMenuOnly: true,
         },
+        {
+          title: 'relays status',
+          icon: 'search',
+          to: '/relays/',
+          match: 'follow',
+        },
       ],
     }
   },
